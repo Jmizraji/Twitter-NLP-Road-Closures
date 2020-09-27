@@ -1,0 +1,8 @@
+date,closed,report,query_string,lat,lng,query_score,field_score
+2020-08-28,1.0,UPDATE: LA 110 from US 190 to LA 27 - Beauregard Parish,UPDATE:+LA+110+from+US+190+to+LA+27+-+Beauregard+Parish,30.642909999999997,-93.38401,0.51,"{'country': 1.0, 'state': 1.0, 'county': 1.0, 'streets': [1.0]}"
+2020-08-28,1.0,UPDATE:  LA 301 – Jefferson Parish,UPDATE:++LA+301+–+Jefferson+Parish,29.76192,-90.11816,0.51,"{'state': 1.0, 'county': 1.0}"
+2020-08-28,1.0,ST. TAMMANY PARISH - I-10: LANE CLOSURES (SLIDELL),ST.+TAMMANY+PARISH+-+I-10:+LANE+CLOSURES+(SLIDELL),30.2931,-89.81653,0.67,"{'state': 1.0, 'county': 1.0, 'city': 1.0, 'streets': [0.9]}"
+2020-08-28,1.0,ST. TAMMANY PARISH – I-10: SLIDELL RAMP CLOSURES,ST.+TAMMANY+PARISH+–+I-10:+SLIDELL+RAMP+CLOSURES,30.2931,-89.81653,0.67,"{'state': 1.0, 'county': 1.0, 'city': 1.0, 'streets': [0.9]}"
+2020-08-28,1.0,"I-55 & I-12 DISTRICT WIDE OGFC SPOT REPAIR – ST. TAMMANY PARISH, RAMP CLOSURES AT I-12/ I-59/ I-10 INTERCHANGE - STATE PROJECT H.013903","I-55+&+I-12+DISTRICT+WIDE+OGFC+SPOT+REPAIR+–+ST.+TAMMANY+PARISH,+RAMP+CLOSURES+AT+I-12/+I-59/+I-10+INTERCHANGE+-+STATE+PROJECT+H.013903",30.1976,-90.43223,1.0,"{'state': 1.0, 'streets': [1.0]}"
+2020-08-28,1.0,"UPDATE: LA 665 flood gate closure, Terrebonne Parish","UPDATE:+LA+665+flood+gate+closure,+Terrebonne+Parish",29.57494,-90.69645,0.52,"{'state': 1.0, 'county': 1.0, 'streets': [0.85], 'houseNumber': 1.0}"
+2020-08-27,1.0,"UPDATE: LA 3152 Clearview Pkwy W. Metairie to Argonne St., Jefferson Parish, H.012571","UPDATE:+LA+3152+Clearview+Pkwy+W.+Metairie+to+Argonne+St.,+Jefferson+Parish,+H.012571",30.0039,-90.18556,0.57,"{'state': 1.0, 'county': 1.0, 'city': 1.0, 'streets': [1.0], 'houseNumber': 1.0}"
